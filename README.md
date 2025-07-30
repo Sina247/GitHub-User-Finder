@@ -1,6 +1,6 @@
 # 🔍 GitHub User Finder
 
-A clean and responsive web app that helps you quickly search and view GitHub user profiles. Built with HTML, CSS and JavaScript. GitHub User Finder offers a simple and intuitive interface to find users, explore their repositories, followers and other important information.
+A clean and responsive web app that helps you quickly search and view GitHub user profiles. Built with HTML, CSS and JavaScript. GitHub User Finder offers a simple, intuitive interface to find users, explore their repositories, followers and other important information.
 
 ---
 
